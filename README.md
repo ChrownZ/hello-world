@@ -1,3 +1,6 @@
 # hello-world
 
-I'm hyped to learn about coding!
+Tutorial for GitHub
+
+I'm Alex and I'm excited to learn to code and use the GitHub.
+
